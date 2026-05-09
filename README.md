@@ -1,4 +1,4 @@
-# Hi, I'm Valeriy 👋
+# Hi, I'm Valery 👋
 
 Full-stack .NET developer.
 
